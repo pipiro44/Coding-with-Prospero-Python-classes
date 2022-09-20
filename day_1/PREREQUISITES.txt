@@ -1,0 +1,21 @@
+
+Hi,
+
+Welcome to my Python class.
+
+Here are some materials you need to download and get ready
+for our first meeting, which involves a lot of setup and configuration.
+I have provided links to the websites where you can get them for FREE.
+Please, do not install 2 and 3 until we meet in class.
+
+
+1. Zoom (for Desktop): if you don't already have one installed
+on your computer, you may download and install one from
+this link: https://zoom.us/download
+
+2. Python IDLE. Download Python version 3.10.1
+(https://www.python.org/downloads/)
+
+3. VSCode: follow the link and download VSCode.
+(https://code.visualstudio.com/)
+
